@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm Finley Webber, a 16 year old student at Canberra Grammar School.
+
+- 🌱 I’m currently learning C, OpenGL, Windows API, and Machine Learning
 
 <!--
 **finley-webber/finley-webber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
