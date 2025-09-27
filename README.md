@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm Finley Webber, a 16 year old student at Canberra Grammar School.
+I'm Finley Webber, a 18 year old student at Canberra Grammar School.
 
-- 🌱 I’m currently learning C, OpenGL, Windows API, and Machine Learning
+- 🌱 I’m a Web Developer proficient in React, Python + Flask, as well as Cloud-Hosting Services such as Cloudlfare and Render
 
 <!--
 **finley-webber/finley-webber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
